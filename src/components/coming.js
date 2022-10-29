@@ -48,6 +48,7 @@ const Wrapper = styled(Column)`
 const LogoImage = styled.img`
   max-width: 100%;
   height: auto;
+  width: 300px;
 `;
 const Title = styled.div`
   font-size: 40px;
